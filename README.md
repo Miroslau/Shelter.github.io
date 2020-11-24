@@ -1,1 +1,1 @@
-# test-task-epam.github.io
+# test-task.github.io
