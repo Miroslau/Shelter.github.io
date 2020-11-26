@@ -1125,9 +1125,15 @@ footer {
         flex-direction: column-reverse;
         padding-top: 42px;
     }
+    
+    .don_dog {
+        max-width: 320px;
+        width: 100%;
+    }
 
     .donat_desc {
         width: 300px;
+        margin: 0 auto;
     }
 
     .donat_desc > h3 {
